@@ -2,7 +2,7 @@ Control your Minecraft server with a Telegram bot.
 --------------------------------------------------
 COMMANDS                                                                                                               
 /start - starts the bot                                                                                                                                                                      
-/startserver - starts minecraft server
+/startserver - starts minecraft server                                                                                                                              
 /stopserver - stops minecraft server                                                                   
 /command COMMAND - enters command into minecraft server terminal                                                                 
 --------------------------------------------------
