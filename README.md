@@ -10,5 +10,4 @@ COMMANDS
 TUTORIAL
 https://www.youtube.com/@1luree
 --------------------------------------------------
-Contact me if you need help.
-https://t.me/lurelurelure
+
